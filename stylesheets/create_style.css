@@ -1,0 +1,133 @@
+table.create{
+    min-width: 700px;
+    width: 100%;
+}
+td.long {
+    width: 70%;
+    min-width: 490px;
+    padding-left: 20px;
+}
+
+.select-css{
+    background-color: #161616;
+    font-family: "Courier New", "Times New Roman", Times, serif;
+    font-size: 20px;
+    font-style: italic;
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-color: #161616;
+    color: #f2f2f2;
+}
+.select-css::-ms-expand {
+    display: none;
+}
+.select-css:hover {
+    border-color: #888;
+}
+.select-css:focus {
+    border-color: #aaa;
+    box-shadow: 0 0 1px 3px rgba(59, 153, 252, .7);
+    box-shadow: 0 0 0 3px -moz-mac-focusring;
+    color: #f2f2f2;
+    outline: none;
+}
+.select-css option {
+    font-weight:normal;
+}
+
+option{
+    background-color: #161616;
+    font-family: "Courier New", "Times New Roman", Times, serif;
+    font-size: 20px;
+    font-style: italic;
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-color: #161616;
+    color: #f2f2f2;
+}
+
+body {
+    font-family: "Courier New", "Times New Roman", Times, serif;
+    background-color: #262626;
+    color: #f2f2f2;
+    padding: 70px;
+    font-size: 200%;
+    font-weight: bold;
+    font-style: italic;
+}
+a {
+    color: #1C63DC;
+    font-size: 28px;
+}
+a:hover {
+    color: #9c9c9c;
+}
+
+
+input[type=password] {
+    background-color: #161616;
+    font-family: "Courier New", "Times New Roman", Times, serif;
+    font-size: 20px;
+    font-style: italic;
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-color: #161616;
+    color: #f2f2f2;
+}
+
+input[type=text] {
+    background-color: #161616;
+    font-family: "Courier New", "Times New Roman", Times, serif;
+    font-size: 20px;
+    font-style: italic;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-color: #161616;
+    color: #f2f2f2;
+}
+
+::placeholder {
+    color: #f2f2f2;
+}
+:focus {
+    outline: none !important;
+}
+
+.btn_ctn {
+    text-align: center;
+}
+
+.button {
+    width: 350px;
+    height: 140px;
+    /*display: inline-block;*/
+    padding: 15px 25px;
+    font-size: 38px;
+    font-weight: bold;
+    font-style: italic;
+    cursor: pointer;
+    text-align: center;
+    font-family: "Courier New", "Times New Roman", Times, serif;
+    outline: none;
+    color: #fff;
+    background-color: #1C63DC;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+}
+
+.button:hover {background-color: #34548B}
+
+.button:active {
+    background-color: #34548B;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}

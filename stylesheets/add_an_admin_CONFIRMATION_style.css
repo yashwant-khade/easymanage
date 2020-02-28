@@ -1,0 +1,21 @@
+body {
+	font-family: "Courier New", "Times New Roman", Times, serif;
+	background-color: #262626;
+	color: #f2f2f2;
+	padding: 70px;
+	font-size: 600%;
+	font-weight: bold;
+	font-style: italic;
+}
+
+form {
+	display: inline-block;
+}
+
+a {
+	color: #1C63DC;
+	font-size: 28px;
+}
+a:hover {
+	color: purple;
+}

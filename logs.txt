@@ -1,0 +1,49 @@
+[ 2019-Nov-24 06:48:09pm ] [ Info ] CREATE BONUS : Authorized and loaded data successfully
+[ 2019-Nov-24 06:48:13pm ] [ Info ] CREATE BONUS : Authorized and loaded data successfully
+[ 2019-Nov-24 06:49:04pm ] [ Info ] CREATE BONUS : Authorized and loaded data successfully
+[ 2019-Nov-26 12:25:40am ] [ Info ] CREATE PROJECT : Authorized and loaded data successfully
+[ 2019-Nov-26 12:25:49am ] [ Info ] CREATE BONUS : Authorized and loaded data successfully
+[ 2019-Nov-26 12:25:54am ] [ Info ] CREATE PROJECT : Authorized and loaded data successfully
+[ 2019-Nov-26 12:26:37am ] [ Info ] CREATE PROJECT : Authorized and loaded data successfully
+[ 2019-Nov-26 12:26:38am ] [ Info ] CREATE PROJECT : Authorized and loaded data successfully
+[ 2019-Nov-26 12:26:50am ] [ Info ] CREATE PROJECT : Authorized and loaded data successfully
+[ 2019-Nov-26 12:26:51am ] [ Info ] CREATE PROJECT : Authorized and loaded data successfully
+[ 2019-Nov-26 12:26:51am ] [ Info ] CREATE PROJECT : Authorized and loaded data successfully
+[ 2019-Nov-26 12:27:02am ] [ Info ] CREATE PROJECT : Authorized and loaded data successfully
+[ 2019-Nov-26 12:27:03am ] [ Info ] CREATE PROJECT : Authorized and loaded data successfully
+[ 2019-Nov-26 12:27:20am ] [ Info ] CREATE PROJECT : Authorized and loaded data successfully
+[ 2019-Nov-26 12:27:30am ] [ Info ] CREATE PROJECT : Authorized and loaded data successfully
+[ 2019-Nov-26 12:27:41am ] [ Info ] CREATE BONUS : Authorized and loaded data successfully
+[ 2019-Nov-26 12:27:53am ] [ Info ] CREATE PROJECT : Authorized and loaded data successfully
+[ 2019-Nov-26 12:27:59am ] [ Warning ] CREATE WORKLOG : Not authorized as no users in the dropdown
+[ 2019-Nov-26 12:29:29am ] [ Warning ] CREATE TASK : Not authorized as no users in the dropdown
+[ 2019-Nov-26 12:29:47am ] [ Info ] CREATE TASK : Authorized and loaded data successfully
+[ 2019-Nov-26 12:34:35am ] [ Info ] CREATE TASK : Authorized and loaded data successfully
+[ 2019-Nov-26 12:59:02am ] [ Info ] CREATE TASK : Authorized and loaded data successfully
+[ 2019-Nov-26 12:59:37am ] [ Info ] CREATE TASK : Authorized and loaded data successfully
+[ 2019-Nov-26 12:59:58am ] [ Info ] CREATE TASK : Authorized and loaded data successfully
+[ 2019-Nov-26 01:00:07am ] [ Info ] CREATE TASK : Authorized and loaded data successfully
+[ 2019-Nov-26 01:00:26am ] [ Info ] CREATE TASK : Authorized and loaded data successfully
+[ 2019-Nov-26 01:00:44am ] [ Info ] CREATE TASK : Authorized and loaded data successfully
+[ 2019-Nov-26 01:02:48am ] [ Info ] CREATE TASK : Authorized and loaded data successfully
+[ 2019-Nov-26 01:13:58am ] [ Info ] CREATE TASK : Authorized and loaded data successfully
+[ 2019-Nov-26 01:14:07am ] [ Info ] CREATE PROJECT : Authorized and loaded data successfully
+[ 2019-Nov-26 01:14:12am ] [ Info ] CREATE TASK : Authorized and loaded data successfully
+[ 2019-Nov-26 01:14:16am ] [ Warning ] CREATE WORKLOG : Not authorized as no users in the dropdown
+[ 2019-Nov-26 01:14:29am ] [ Warning ] CREATE WORKLOG : Not authorized as no users in the dropdown
+[ 2019-Nov-26 01:18:22am ] [ Info ] CREATE WORKLOG : Authorized and loaded data successfully
+[ 2019-Nov-26 01:20:48am ] [ Info ] CREATE WORKLOG : Authorized and loaded data successfully
+[ 2019-Nov-26 01:21:18am ] [ Info ] CREATE WORKLOG : Authorized and loaded data successfully
+[ 2019-Nov-26 01:21:33am ] [ Info ] CREATE WORKLOG : Authorized and loaded data successfully
+[ 2019-Nov-26 01:21:54am ] [ Info ] CREATE WORKLOG : Authorized and loaded data successfully
+[ 2019-Nov-26 01:22:07am ] [ Warning ] CREATE REVIEW : Not authorized as you are a employee
+[ 2019-Nov-26 01:22:10am ] [ Warning ] CREATE BONUS : Not authorized as you are a employee
+[ 2019-Nov-26 01:22:22am ] [ Info ] CREATE BONUS : Authorized and loaded data successfully
+[ 2019-Nov-26 01:22:25am ] [ Info ] CREATE REVIEW : Authorized and loaded data successfully
+[ 2019-Nov-26 01:24:19am ] [ Info ] CREATE REVIEW : Authorized and loaded data successfully
+[ 2019-Nov-26 01:24:36am ] [ Info ] CREATE REVIEW : Authorized and loaded data successfully
+[ 2019-Nov-26 01:24:40am ] [ Info ] CREATE PROJECT : Authorized and loaded data successfully
+[ 2019-Nov-26 01:24:43am ] [ Info ] CREATE TASK : Authorized and loaded data successfully
+[ 2019-Nov-26 01:24:46am ] [ Warning ] CREATE WORKLOG : Not authorized as no users in the dropdown
+[ 2019-Nov-26 01:24:50am ] [ Info ] CREATE BONUS : Authorized and loaded data successfully
+[ 2019-Nov-26 01:24:53am ] [ Info ] CREATE REVIEW : Authorized and loaded data successfully
